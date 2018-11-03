@@ -1,1 +1,1 @@
-- [Andulhafiz Ahmed](http://github.com/rexdavinci)
+- [Abdulhafiz Ahmed](http://github.com/rexdavinci)
